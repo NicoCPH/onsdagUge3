@@ -1,6 +1,6 @@
 # onsdagUge3
- \n
+<br>
 Dette er onsdags opgaven JavaScript Day-1
-\n
+<b>
 jeg er kommet til lommerregner opgaven til punkt 4 ud af 6 i torsdags opgaven.
 
